@@ -12,6 +12,9 @@ It includes 5 functions that provide:
 [1] On the Stability of Feature Selection. Sarah Nogueira, Konstantinos Sechidis, Gavin Brown. 
     Journal of Machine Learning Reasearch (JMLR). 2017.
 
+You can find a full demo using this package at:
+http://htmlpreview.github.io/?https://github.com/nogueirs/JMLR2017/blob/master/python/stabilityDemo.html
+
 NB: This package requires the installation of the packages: numpy, scipy and math
 
 '''
