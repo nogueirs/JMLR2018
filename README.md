@@ -13,7 +13,8 @@ More specifically, the Python folder includes:
       - A hypothesis test allowing to compare the population stabilities of two feature selection procedures
       - A hypothesis test to check whether a population stability is greater than a given threshold
 - a DEMO using the package showing how to use this package and providing illustratating its use on real-data scenarios.
-  You can download the HTML file (stabilityDemo.html) or the Jupyter Notebook (stabilityDemo.ipynb)
+  You can download the HTML file (stabilityDemo.html) or the Jupyter Notebook (stabilityDemo.ipynb).
+  You can otherwise view it at: http://www.cs.man.ac.uk/~nogueirs/stabilityDemo.html
 
 The Matlab folder includes:
 - All the tools given in the python stability package
