@@ -1,20 +1,19 @@
 # JMLR2017
-This folder contains material of the following published paper:
+This folder contains material of the following paper (accepted with minor corrections, available soon):
 
 "On the Stability of Feature Selection.". Nogueira, Sechidis and Brown.
 Journal of Machine Learning Reasearch (JMLR). 2017.
 
 More specifically, the Python folder includes:
-- a Python package called stability (given as a .zip file called "stability.zip"). 
+- a Python package called stability (given as a folder called "stability" containing the __init__.py file). 
   The package includes all tools of the paper, including the functions to compute:
       - stability estimates
       - the variance of the estimates
       - confidence intervals for the population stability
       - A hypothesis test allowing to compare the population stabilities of two feature selection procedures
       - A hypothesis test to check whether a population stability is greater than a given threshold
-- a demo in HTML (called stabilityDemo.html) showing how to use this package and providing illustratating its use on real-data scenarios.
-  You can download the HTML file or preview it at the following address:
-  http://htmlpreview.github.io/?https://github.com/nogueirs/JMLR2017/blob/master/python/stabilityDemo.html
+- a DEMO using the package showing how to use this package and providing illustratating its use on real-data scenarios.
+  You can download the HTML file (stabilityDemo.html) or the Jupyter Notebook (stabilityDemo.ipynb)
 
 The Matlab folder includes:
 - All the tools given in the python stability package
