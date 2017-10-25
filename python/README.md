@@ -3,7 +3,7 @@ This folder contains material of the following paper (accepted with minor correc
 "On the Stability of Feature Selection.". Nogueira, Sechidis and Brown. Journal of Machine Learning Reasearch (JMLR). 2017.
 More specifically, it includes:
 
-a Python package called stability (given as a folder called "stability" containing the __init__.py file). The package includes all tools of the paper, including the functions to compute: 
+a Python 3 package called stability (given as a folder called "stability" containing the __init__.py file). The package includes all tools of the paper, including the functions to compute: 
 - stability estimates 
 - the variance of the estimates 
 - confidence intervals for the population stability
