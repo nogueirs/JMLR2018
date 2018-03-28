@@ -1,4 +1,4 @@
-# JMLR2017
+# JMLR2018
 This folder contains material of the following paper (accepted with minor corrections, available soon):
 
 "On the Stability of Feature Selection.". Nogueira, Sechidis and Brown.
